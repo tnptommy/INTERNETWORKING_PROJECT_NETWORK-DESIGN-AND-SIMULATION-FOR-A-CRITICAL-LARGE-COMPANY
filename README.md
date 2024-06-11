@@ -3,7 +3,7 @@
 
 **Description:** This project contains the comprehensive network design and simulation report for a critical large company (BB Bank). The report covers network requirements, analysis and design, network map design using Packet Tracer, network system simulation, and network evaluation. It includes detailed descriptions, configurations, and diagrams to illustrate the proposed network infrastructure, ensuring high security, availability, and scalability.
 
-**Author:** Tommy Huynh
+**Authors:** Tommy Huynh, Manh Khang Nguyen
 
 **December 2023**
 
